@@ -1,0 +1,1 @@
+Proyecto de gestión de incidencias de una escuela desarrollada para Android nativo con Kotlin y SQLite como base de datos local.
